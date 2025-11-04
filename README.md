@@ -32,7 +32,7 @@ Airlines_Flights_DA/
 ├── data/ # Dataset (if applicable)
 └── images/ # Visualizations or plots (optional)
 
-📈 Key Insights (Example)
+## 📈 Key Insights (Example)
 
 Most flight delays occur during evening hours.
 
@@ -42,7 +42,7 @@ Certain airlines maintain consistent on-time performance across routes.
 
 Average delay time shows strong correlation with flight distance.
 
-🖼️ Visualizations
+## 🖼️ Visualizations
 
 Includes graphical insights using Matplotlib and Seaborn:
 
@@ -54,7 +54,7 @@ Monthly/seasonal trends
 
 Correlation heatmaps
 
-🚀 Future Work
+## 🚀 Future Work
 
 Predict flight delays using machine learning models.
 
