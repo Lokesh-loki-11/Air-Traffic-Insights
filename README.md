@@ -1,4 +1,4 @@
-# ✈️ Airlines Flights Data Analysis
+# ✈️ Air Traffic Insights
 
 ## 📘 Overview
 This project performs an in-depth **Exploratory Data Analysis (EDA)** on airline flight data to uncover key insights about flight delays, airline performance, and travel patterns.  
